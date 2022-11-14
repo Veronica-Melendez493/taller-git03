@@ -11,7 +11,13 @@ en git son
    * Se utiliza para ver el 
     status de tu repositorio
 * git commit -m "mensaje"
-
+* git show 
+   * Te muestra los cambios que
+   hiciste en el ultimo commit
+* git show commit_id
+  * Te muestra los cambios que
+  hiciste en el commit dado
+  
 1. Primer punto
 2. Segundo punto
 3. Tercer punto
